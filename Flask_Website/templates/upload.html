@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automotive Attribute Price Correlation Analysis AI Project</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            max-width: 400px;
+            width: 100%;
+            text-align: center;
+        }
+        h1 {
+            margin-top: 0;
+            color: #333333;
+        }
+        p {
+            color: #666666;
+            margin-bottom: 20px;
+        }
+        .upload-btn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .upload-btn:hover {
+            background-color: #45a049;
+        }
+        .file-input {
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Upload a CSV File</h1>
+        <h2>Automotive Attribute Price Correlation Analysis AI Project</h2>
+        <p>By Zaki Qasim (21L-7642) and Abubakar Pirzada (21L-5201)</p>
+        <form action="/upload" method="post" enctype="multipart/form-data">
+            <input class="file-input" type="file" name="file" accept=".csv" required>
+            <button class="upload-btn" type="submit">Upload</button>
+        </form>
+    </div>
+</body>
+</html>
