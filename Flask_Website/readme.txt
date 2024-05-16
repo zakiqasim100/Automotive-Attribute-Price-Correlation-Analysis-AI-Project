@@ -1,4 +1,6 @@
-Right click app.py, open in Terminal (cmd), 
+open Terminal (cmd), 
+
 run:
 python app.py
-open browser, go to localhost:5000 to see the website
+
+open browser, go type "localhost:5000" in the search bar to see the website
