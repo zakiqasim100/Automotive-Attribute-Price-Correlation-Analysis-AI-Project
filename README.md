@@ -6,6 +6,13 @@ Factors such as color, transmission type, model year, 4-wheel drive, etc are ana
 determine what price range gives you what vehicle with which features, and vice versa,
 facilitating informed decisions in the automotive market for both buyer and seller.
 
+![image](https://github.com/zakiqasim100/Automotive-Attribute-Price-Correlation-Analysis-AI-Project/assets/99090083/fcd0c098-d0c6-4371-ab1b-d393442f4b72)
+
+![image](https://github.com/zakiqasim100/Automotive-Attribute-Price-Correlation-Analysis-AI-Project/assets/99090083/08df9f5b-b8a6-41a7-beec-251a45e63e5d)
+
+
+![image](https://github.com/zakiqasim100/Automotive-Attribute-Price-Correlation-Analysis-AI-Project/assets/99090083/b3401a31-cead-40e8-ab22-a7a8e2047993)
+
 ## Problem Statement
 
 The aim of this project is to conduct an in-depth analysis of the correlation between various
